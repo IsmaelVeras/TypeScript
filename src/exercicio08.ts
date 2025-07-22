@@ -1,4 +1,4 @@
-// Crie uma função que receba dois números e retorna a divisão entre eles
+// Crie uma função que recebe dois números e retorna a divisão entre eles
 // Caso não seja possivel realizar a divisão, a função deve retornar um erro
 
 function dividir(n1: number, n2: number) {
