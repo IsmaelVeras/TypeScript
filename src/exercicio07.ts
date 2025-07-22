@@ -1,5 +1,5 @@
-// Crie uma função que recebe dois números e retorna a soma deles.
-// Se a soma for negativa, exiba "Número negativo!".
+// Crie uma função que recebe dois números e retorna a soma deles. 
+// Se a soma for negativa, exiba "Número negativo!". 
 // Caso contrário, exiba a soma.
 
 function Soma(a: number, b: number) {
