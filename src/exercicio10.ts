@@ -1,6 +1,6 @@
 function calcularAreaQuadrado(lado: number): number {
-  return lado * lado;
+  return lado * lado
 }
 
-const area = calcularAreaQuadrado(7);
-console.log(`Área do quadrado: ${area}`);
+const area = calcularAreaQuadrado(7)
+console.log(`Área do quadrado: ${area}`)
